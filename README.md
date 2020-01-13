@@ -7,13 +7,17 @@
 ## Presentations (Winter 2020)
 |Date| Topic | Presenter| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
-| 13 January 2020 | Organization | N/A | University of Waterloo (DC2102)| |
-| 27 January 2020 |  | | Borealis AI| |
-| 10  February 2020 | || University of Waterloo (DC2310) | | 
-| 24 February 2020 |  || Borealis AI | | 
-| 9 March 2020 |  || University of Waterloo (DC2310)| | 
-| 16 March 2020 | || Borealis AI | | 
-| 30 March 2020 |  || University of Waterloo (DC2310)| | 
+| 17 January 2020 | Organization | N/A | University of Waterloo (DC2102) (What locations?*)| |
+| 24 January 2020 |  | | Borealis AI| |
+| 31 January 2020 | || University of Waterloo (DC2310) | | 
+| 7 February 2020 |  || Borealis AI | | 
+| 14 Feburary 2020 |  || University of Waterloo (DC2310)| | 
+| 21 Feburary 2020 | || Borealis AI | | 
+| 28 Feburary 2020 |  || University of Waterloo (DC2310)| | 
+| 6 March 2020 | || Borealis AI | | 
+| 13 March 2020 |  || University of Waterloo (DC2310)| | 
+| 20 March 2020 | || Borealis AI | | 
+| 27 March 2020 |  || University of Waterloo (DC2310)| | 
 
 
 ## Presentations (Fall 2019)
